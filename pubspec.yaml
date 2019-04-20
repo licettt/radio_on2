@@ -16,6 +16,7 @@ flutter:
   assets:
   - assets/avatar.png
   - assets/backdrop.png
+  - assets/fondo1.png
   - assets/video1_thumb.png
   - assets/video4_thumb.png
   - assets/video3_thumb.png

@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     firstName: 'Andy',
     lastName: 'Fraser',
     avatar: 'assets/avatar.png',
-    backdropPhoto: 'assets/backdrop.png',
+    backdropPhoto: 'assets/fondo1.png',
     location: 'London, England',
     biography: 'Andrew McLan "Andy" Fraser was an English songwriter and bass '
         'guitarist whose career lasted over forty years, and includes two spells '
