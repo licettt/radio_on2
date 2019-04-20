@@ -29,7 +29,7 @@ class ArtistDetailsPage extends StatelessWidget {
         shape: BoxShape.circle,
         border: Border.all(color: Colors.white30),
       ),
-      margin: const EdgeInsets.only(top: 32.0, left: 16.0),
+      margin: const EdgeInsets.only(top: 40.0, left: 30.0),
       padding: const EdgeInsets.all(3.0),
       child: ClipOval(
         child: Image.asset(artist.avatar),
